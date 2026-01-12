@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋, I'm Vedika Mukati
 
-<!--
-**vedika1209/vedika1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-year Engineering Student  
+💻 Learning C and C++  
+📘 Interested in Data Structures and Software Development  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- C, C++
+- Data Structures (Arrays, Stack, Queue, Linked List)
+- OOPS (Basics)
+- HTML, CSS (Basic)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 What I'm Currently Doing
+- Practicing DSA in C++
+- Building mini projects
+- Improving problem-solving skills
+
+## 📫 Connect With Me
+- GitHub: https://github.com/vedika1209
+- LinkedIn:https://linkedin.com/in/vedika-mukati-b9437a315
+
